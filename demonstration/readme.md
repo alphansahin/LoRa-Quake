@@ -7,7 +7,7 @@ Settings: https://github.com/alphansahin/LoRaQuake/blob/main/demonstration//alph
 
 # MATLAB GUI and signals over-the-air:
 The nodes configure their slots by themselves and synchronize with each other in a distributed manner. The signals over the air are captured by ADALM PLUTO SDR.
-![Proposed concept:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration_RadioFest2023/guiWorkingExample.png?raw=true)
+![Proposed concept:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/guiWorkingExample.png?raw=true)
 
 # Photos:
 ![Proposed concept:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/photo1.jpg?raw=true)
