@@ -1,2 +1,2 @@
-# LoRaQuake
-LoRaQuake
+# LoRa Quake
+LoRa Quake
