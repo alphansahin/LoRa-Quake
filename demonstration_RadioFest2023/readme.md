@@ -1,6 +1,3 @@
-# RadioFest 2023
-RadioFest was a local event at Istanbul Medipol University, where the students within the CoSiNC competed with their projects. In this event, I demonstrated the first glimpse of the proposed concepts.
-
 # Settings
 A software-defined radio is used for monitoring the signal in the air. All nodes are connected to a router over Wi-Fi to monitor their states.
 5 nodes (based on SX1280).
