@@ -1,6 +1,6 @@
 # Settings
-A software-defined radio is used for monitoring the signal in the air. All nodes are connected to a router over Wi-Fi to monitor their states.
-5 nodes (based on SX1280).
+A software-defined radio is used for monitoring the signals in the air. All nodes are connected to a router over Wi-Fi to monitor their states.
+5 nodes (based on SX1280) are used.
 
 Settings: https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/alphan_loraQuake.pdf
 
