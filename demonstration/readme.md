@@ -4,6 +4,8 @@ A software-defined radio is used for monitoring the signal in the air. All nodes
 
 Settings: https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/alphan_loraQuake.pdf
 
+# Demo 
+Video: https://drive.google.com/file/d/1o34et0p-iAPVdWog99jCMZJRZsToHKnZ/view
 
 # MATLAB GUI and signals over-the-air:
 The nodes configure their slots by themselves and synchronize with each other in a distributed manner. The signals over the air are captured by ADALM PLUTO SDR.
