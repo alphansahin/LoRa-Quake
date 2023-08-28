@@ -12,10 +12,6 @@ The nodes configure their slots by themselves and synchronize with each other in
 ![Proposed concept:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/guiWorkingExample.png?raw=true)
 
 # Photos:
-![Proposed concept:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/photo1.jpg?raw=true  | width=200)
-![Proposed concept:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/photo2.jpg?raw=true  | width=200)
-![Proposed concept:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/photo3.jpg?raw=true  | width=200)
-
 <img src="https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/photo1.jpg" width="50%" height="50%">
 <img src="https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/photo2.jpg" width="50%" height="50%">
 <img src="https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/photo3.jpg" width="50%" height="50%">
