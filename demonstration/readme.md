@@ -9,7 +9,10 @@ Video: https://drive.google.com/file/d/1o34et0p-iAPVdWog99jCMZJRZsToHKnZ/view
 
 # MATLAB GUI and signals over-the-air:
 The nodes configure their slots by themselves and synchronize with each other in a distributed manner. The signals over the air are captured by ADALM PLUTO SDR.
-![Proposed concept:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/guiWorkingExample.png?raw=true)
+
+The rescue message initiated from Node 4 reaches the reference node (Node 1) after hopping over Node 5.
+
+<img src="https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/guiWorkingExample.png" width="50%" height="50%">
 
 # Photos:
 <img src="https://github.com/alphansahin/LoRaQuake/blob/main/demonstration/photo1.jpg" width="50%" height="50%">
