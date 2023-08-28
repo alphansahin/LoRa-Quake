@@ -2,7 +2,7 @@
 RadioFest was a local event at Istanbul Medipol University, where the students within the CoSiNC competed with their projects. I also present the first glimpse of the proposed concepts.
 ![Demo:](https://github.com/alphansahin/LoRaQuake/blob/main/demonstration_RadioFest2023/loraquake.mp4?raw=true)
 
-# Settings:
+# Settings
 A software-defined radio is used for monitoring the signal in the air. All nodes are connected to a router over Wi-Fi to monitor their states.
 5 nodes (SX1280 LoRa @ 2.5 GHz). One of them is set as a reference node.
 
