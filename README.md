@@ -4,4 +4,4 @@ February 6th Kahramanmaraş Earthquakes (2023 Turkey–Syria Earthquake) showed 
 
 This repository includes the source code developed at Istanbul Medipol University when I visited the CoSiNC group in Istanbul in 2023. This project is supported by the TUBITAK BIDEB 2221 - Call for Earthquake Research Opens within the Scope of Supporting Scientist with Guest or Academic Leave Program, 2023.
 
-<img src="https://github.com/alphansahin/LoRaQuake/blob/main/concept.ong" width="80%">
+<img src="https://github.com/alphansahin/LoRaQuake/blob/main/concept.png" width="80%">
